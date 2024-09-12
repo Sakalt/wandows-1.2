@@ -3,7 +3,7 @@
 # Experence Windows 11 UI on web
 This project is made to show Windows 11 UI on web and not Microsoft’s Operating System
 
-**Live demo** [W11 UI](https://chrishtu.github.io/windows11)
+**Live demo** [W11 UI](https://sakalt.github.io/wandows-1.2/public/index.html)
 
 ## Features
 - Personalization (Themes, Background, Color,...)
